@@ -3,4 +3,4 @@ Useful scripts
 
 ## Script dirs
 
-[docker_scripts](docker_scripts)
+[nanopore_scripts](nanopore_scripts)

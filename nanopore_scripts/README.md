@@ -1,7 +1,12 @@
-# Docker scripts
+# Nanopore scripts
 
 ## Nanopore guppy basecalling
 `run_guppy_basecaller_v6_gpu_docker.sh` - script to run guppy basecalling using gpu
+
+Requires:
+docker
+nvidia-docker
+nvidia driver
 
 Note:
 * use public docker image for machines other than the in-house gpu machine
